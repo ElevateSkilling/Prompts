@@ -54,4 +54,4 @@ Nonprofit staff can use these prompts to:
 
 
 ## Contribute
-We welcome your contributions! If you have an
+If you have an idea for a prompt, please submit them for consideration.
