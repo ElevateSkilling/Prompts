@@ -1,4 +1,4 @@
-# Prompts for Nonprofits, Education and Policymakers: Enhancing Productivity & Learning
+# Prompts for Civil Society, Education and Government: Enhancing Productivity & Learning
 
 ## About this Repository
 Welcome to the Elevate Prompt repository! Our mission is to transform the way leaders, educators, and staff in K-12, community colleges, nonprofits and governments interact with generative AI technology like Copilot Chat. By using these prompts, staff can save time and work more efficiently, and students can explore new and exciting learning opportunities. Whether you're a student, a third-grade teacher, a college professor, or a school administrator, this collection is designed with you in mind. No technical expertise required!
